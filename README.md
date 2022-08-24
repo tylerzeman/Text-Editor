@@ -12,7 +12,7 @@ just another text editor
 
 -- [Install](#Install)
 
--- [Demo](#Demo)
+-- [Demo](#Screenshot)
 
 
 ## Description 
