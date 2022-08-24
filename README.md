@@ -28,5 +28,5 @@ after this the user can run npm run start and this will run the build and start 
 
 ## Screenshot
 
-![jate.png](Assets/jate.png?raw=true "jate.png")
+![jate.png](assets/jate.png?raw=true "jate.png")
 
