@@ -32,7 +32,7 @@
     }
   ],
   "name": "just another text editor",
-  "short_name": "j.a.t.e",
+  "short_name": "jate",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
